@@ -1,0 +1,12 @@
+.clockBorder {
+  position: relative;
+}
+.clockCont {
+  padding: 100px;
+  /* display: flex; */
+}
+
+.handScale {
+  position: absolute;
+  transform: scale(0.2);
+}
